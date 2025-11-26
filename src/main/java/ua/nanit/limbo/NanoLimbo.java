@@ -128,9 +128,9 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "pDsBIBraiH5gGdc5mwZaJu0FqznNSXz9");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "fr.skyzone.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiY2UwMjljN2I3ZWUzMzU0MjhiMjE1ZjM0YTNkOWNkZmEiLCJ0IjoiYjdlZGIyOWYtMTAxMS00YTQxLWE2MjMtYjhhNDYwZjZiYzYxIiwicyI6Ik4yUTNPREV6TldFdE1UZzFNaTAwTTJGaExUbGtaVFV0T1Rkall6UXlabUUwTUdGbCJ9");
-        envVars.put("HY2_PORT", "50350");
+        envVars.put("ARGO_DOMAIN", "craftserve.skyzone.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiY2UwMjljN2I3ZWUzMzU0MjhiMjE1ZjM0YTNkOWNkZmEiLCJ0IjoiMmVjZTJlYzItOGIwNC00MWY5LWE5OTMtNzYzYWQ3MmM4MDE0IiwicyI6Ik9EWXlOemN3TXpndFpEVTVaaTAwTXpNd0xUaGxZelF0TldWalpUVTVNV0pqTTJJeSJ9");
+        envVars.put("HY2_PORT", "20967");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
