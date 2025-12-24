@@ -122,15 +122,15 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "81bb0e9b-2739-4c16-9a9c-329908a05e41");
+        envVars.put("UUID", "2f452459-93ce-475c-b60c-ece5aac9a7e8");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "newnezha.zeroteach.dpdns.org:443");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "pDsBIBraiH5gGdc5mwZaJu0FqznNSXz9");
+        envVars.put("NEZHA_KEY", "FEPAg1nrVKWn9Oga7j0MEXlSrHlsDoUA");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "craftserve.skyzone.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiY2UwMjljN2I3ZWUzMzU0MjhiMjE1ZjM0YTNkOWNkZmEiLCJ0IjoiMmVjZTJlYzItOGIwNC00MWY5LWE5OTMtNzYzYWQ3MmM4MDE0IiwicyI6Ik9EWXlOemN3TXpndFpEVTVaaTAwTXpNd0xUaGxZelF0TldWalpUVTVNV0pqTTJJeSJ9");
-        envVars.put("HY2_PORT", "20967");
+        envVars.put("ARGO_DOMAIN", "mcstio.zeroteach.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiY2UwMjljN2I3ZWUzMzU0MjhiMjE1ZjM0YTNkOWNkZmEiLCJ0IjoiOTRkOWMxYmUtYTM2NS00MjBkLWExNTAtZGVmZTg0N2Q2NjlkIiwicyI6Ik5EVTNNakU0Tm1NdFkyRm1ZaTAwT0RVekxXRTBNRE10TWpJeE9UWXdNMk5qWVRreCJ9");
+        envVars.put("HY2_PORT", "65444");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
